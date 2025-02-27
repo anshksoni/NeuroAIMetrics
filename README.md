@@ -14,6 +14,7 @@ To reproduce the results of this paper, you will have to access the datasets fro
 - [A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence](https://www.nature.com/articles/s41593-021-00962-x)
 - [A self-supervised domain-general learning framework for human ventral stream representation](https://www.nature.com/articles/s41467-022-28091-4)
 - [Deep convolutional models improve predictions of macaque V1 responses to natural images](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897)
+- [Aligning Model and Macaque Inferior Temporal Cortex Representations Improves Model-to-Human Behavioral Alignment and Adversarial Robustness ](https://openreview.net/pdf?id=SMYdcXjJh1q)
 
 
 Model Weights will also need to be downloaded. 
